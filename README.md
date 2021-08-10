@@ -1,3 +1,3 @@
 # stock
-### Stocks automated trading system and monitoring system.
+### Stocks automated trading and analyzing system.
 #### A sample will be like 'GME.html'.
